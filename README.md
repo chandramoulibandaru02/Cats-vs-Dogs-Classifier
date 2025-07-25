@@ -24,7 +24,7 @@ This is a beginner-friendly image classification project using TensorFlow and Ke
 
 ### 🖼️ Sample Output
 
-![image_sample](path_to_your_image.png) <!-- Add a screenshot if you want -->
+![image_sample](cat.png) <!-- Add a screenshot if you want -->
 
 ---
 
